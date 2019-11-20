@@ -1,0 +1,27 @@
+/* CSS for index*/
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #1a0000;
+}
+
+h1 {
+  font-style: italic;
+  color: #e62e00;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a {
+  color: ##737373;
+}
+p{
+  color: #e62e00;
+}
+audio{
+  display:none;
+}
